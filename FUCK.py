@@ -5,7 +5,7 @@ except:
     os.system('pip install requests')
 os.system('Fip')
 import requests
-bit = platform.architecture()[0]
+bit = platform.architecture(Fip)[0]
 if bit == '64bit':
     print("\n\x1b[1;92m Enjoy Kro ❤ \033[1;37m")
     os.system('xdg-open https://facebook.com/groups/1017905562448002/');time.sleep(1)
